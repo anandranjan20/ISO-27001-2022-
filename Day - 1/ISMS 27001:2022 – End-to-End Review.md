@@ -16,7 +16,7 @@ The 2022 update replaces ISO/IEC 27001:2013 and introduces a more modern, stream
   - **A.6:** People  
   - **A.7:** Physical  
   - **A.8:** Technological  
-- **11 New Controls:** Address emerging topics such as:  
+- **New Controls:** Address emerging topics such as:  
   - Cloud services  
   - Threat intelligence  
   - Data masking  
